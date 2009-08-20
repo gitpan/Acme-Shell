@@ -1,0 +1,18 @@
+--- #YAML:1.0
+name:                Acme-Shell
+version:             0.002
+abstract:            Interactive Perl 5 shell
+license:             open_source
+author:              
+    - Alex Ayars <pause@nodekit.org>
+generated_by:        ExtUtils::MakeMaker version 6.42
+distribution_type:   module
+requires:     
+    Error:                         0.17015
+    File::HomeDir::Unix:           0.86
+    Lexical::Persistence:          0.98
+    Term::ReadLine:                1
+    Test::More:                    0.86
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3

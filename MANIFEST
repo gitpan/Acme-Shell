@@ -1,0 +1,10 @@
+bin/acmesh
+Changes
+cpl1.0.txt
+INSTALL
+lib/Acme/Shell.pm
+Makefile.PL
+MANIFEST
+README
+t/Shell.t
+META.yml                                 Module meta-data (added by MakeMaker)

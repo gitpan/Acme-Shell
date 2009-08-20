@@ -1,0 +1,4 @@
+Install this module from CPAN.
+
+  perl -MCPAN -e 'install Acme::Shell'
+

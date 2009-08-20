@@ -1,0 +1,7 @@
+This module glues Term::ReadLine to Lexical::Persistence, forming
+the basis for a very simple interactive Perl 5 shell. There isn't
+much to it.
+
+See lib/Acme/Shell.pm for perldoc.
+
+--aayars
